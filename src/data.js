@@ -1,7 +1,7 @@
 import {  FaTwitter, FaGithub, FaLinkedin, FaReact, FaCss3,  } from 'react-icons/fa';
 import { SiGmail , SiJavascript, SiJquery} from 'react-icons/si';
 import {CgWebsite } from 'react-icons/cg';
-import {GiSkills} from 'react-icons/gi';m bb
+import {GiSkills} from 'react-icons/gi';
 import {MdCreate } from 'react-icons/md';
 import React from 'react';
 const sublinks = [

@@ -60,7 +60,7 @@ const Contact =()=>{
      placeholder="Write your message"/>
       <button type="submit" id="contacts" className="btn contact-btn">Submit</button>
         </form>
-        <p class='error'>{err}</p>
+        <p class='error' style={{color:'red'}}>{err}</p>
         </div>
     }
     {afterForm && <p> Thank You {name} for getting in touch with me.<br/>
