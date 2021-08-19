@@ -1,14 +1,15 @@
 import {  FaTwitter, FaGithub, FaLinkedin, FaReact, FaCss3,  } from 'react-icons/fa';
 import { SiGmail , SiJavascript, SiJquery} from 'react-icons/si';
 import {CgWebsite } from 'react-icons/cg';
+import {GiSkills} from 'react-icons/gi';m bb
 import {MdCreate } from 'react-icons/md';
 import React from 'react';
 const sublinks = [
   {
     page: 'About',
     links: [
-      { label:'Web Developer' , icon: <CgWebsite/>  },
-      { label: 'Content-Creator', icon: <MdCreate/>  },
+      { label:'Skills' , icon: <GiSkills/>  },
+      { label: 'Job Experience', icon: <MdCreate/>  },
      
     ],
   },
