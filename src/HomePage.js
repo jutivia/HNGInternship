@@ -33,13 +33,13 @@ useEffect(()=>{
       <Typist.Delay ms={600} />    
      I'm Ju&#768;mo&#768;ke&#769;<br/>
       <Typist.Delay ms={400} />
-        Front-End Developer.
+        Full-stack Developer.
         </h1>
          <br/>
          <br/>
          </Typist>
          <Typist cursor={{show:false}} avgTypingDelay={80} >
-           <Typist.Delay ms={3050}/>
+           <Typist.Delay ms={3070}/>
          <span style={{marginLeft:'2.5rem'}}><span style={{color:'grey'}}>&#60;/</span>h1<span style={{color:'grey'}}>&#62;</span></span></Typist>
          <br/>
          <br/>

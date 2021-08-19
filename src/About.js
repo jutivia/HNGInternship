@@ -20,21 +20,31 @@ const About = () => {
                <div id="about-intro-wrapper">
                  <h1>About Me</h1> 
                <p style={{width:'80%'}}> Hey there... <br/>
-            I am a chemical engineering graduate and a self taught Front End Developer who loves to write codes and bring beautiful UI/UX designs to life .<br/>Here's a link to my <a href='https://1drv.ms/b/s!Aq1iV8JUPrUEgWiBPAjJSCgV2Don' style={{color:'inherit', fontWeight:'bold'}}> resume </a>
+            I am a chemical engineering graduate and a self taught Full-Stack Developer who loves to write codes and bring beautiful UI/UX designs to life .<br/>
+            I enjoy creating easy to use, responsive, and dynamic websites with very fast load times and lag free interactions.
         </p>
+        <p>I graduated from the university of Lagos in 2019. In 2021, i decided to change career paths and become a software developer. Since then, I soon became proficient in some programming languages, frameworks and technologies such as <strong>HTML5, CSS, JavaScript, Jquery, React.js, Sass, Typescript, Redux, Express,wordPress, Node.js, MongoDb, NMDB, </strong>etc. Which i make use of in building full-stack apps, mostly using my main/favorite technology stack, MERN.</p>
+
+        <p>I've highlighed my jobs post university below:</p>
               </div> <br/>
               
               <div className="about-works-wrapper" >
                   <div class="another-works-wrapper">
                   <div className="works" id="mobile">
-                    <img src={web} alt=''/>
-                      <h3 style={{padding:'5px 10px', color:'white'}}>Web Developer</h3>
-                      <p style={{color:'white'}}>I enjoy creating easy to use, responsive,and dynamic websites with very fast load times and lag free interactions.</p>
+                     <img src='https://internship.zuri.team/static/media/logo.36d2d48a.svg'  alt=''/>
+                      <h3 style={{padding:'5px 10px', color:'white'}}>Developer Intern</h3>
+                      <p style={{color:'white'}}>August 2021- current date</p><br/><br/>
+                      <p>- I build and complete tasks given by the co-ordinators </p>
+                      <p>- I get to work in groups/teams of likeminded developers and share knowledge with them </p>
                       </div>
                   <div className="works" id="web"><br/>
-                    <img src={content} style={{height:'20%', color:'white'}}/>
-                    <h3 style={{padding:'5px 10px', color:'black', }}>Content Creator</h3>
-                    <p >I enjoy creating contents that connects brands or entities to its prospective audience. it includes copywriting, designing custom UI/UX for company websites, etc.</p>
+                    <img src='https://flapafrica.net/files/uploads/2020/01/flapper-scaled.png' style={{height:'20%', color:'white'}}/>
+                    <h3 style={{padding:'5px 10px', color:'black', }}>Digital Marketer| CRM</h3>
+                    <p >August 2021- current date</p><br/><br/>
+                    <p> -I created engaging marketing contents for the social media pages which in turn increased the company's social media followers by a margin of 40%</p>
+                    <p>-I maintained the product uploads to the company's website backend using wordpress</p>
+                    <p>I ran digital adverts for the company, which covred over 70% of the company's sales for the month via emails and social media platforms</p>
+
                   </div>
                  </div>
               </div> 

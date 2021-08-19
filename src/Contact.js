@@ -20,7 +20,7 @@ const Contact =()=>{
             email:email,
             msg:msg})
         try{
-        axios.post('http://localhost:5000/post_question', info)
+        await axios.post('http://localhost:5000/post_question', info)
         console.log(info)
        setForm(false);
        setAfterForm(true);

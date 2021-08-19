@@ -51,7 +51,7 @@ setTimeout(()=>{
     <div className='hero-center'>
     <article className='hero-info'>
   <h1 style={styles.slideInLeft}>
-   Web Developer.<br/>
+  Full-stack Web Developer.<br/>
    Tech Enthusiast. <br/> Programmer.</h1>
  {s2 && <p style={styles.slideInLeft}>I create dynamic and easy to use websites   <br/> Bringing your designs to functionality <span style={{fontSize:'18px'}}> &#128522;</span> </p>}
  
