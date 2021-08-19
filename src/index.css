@@ -722,6 +722,7 @@ Stripe Styles
 
 #about-wrapper p {
   width: 80%;
+  text-align:left;
   margin: 0 auto;
   font-size: 14px;
 }
@@ -757,7 +758,7 @@ Stripe Styles
   -webkit-box-shadow: -1px 0px 9px -1px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: -1px 0px 9px -1px rgba(0, 0, 0, 0.75);
   border-radius: 6px;
-  text-align:left;
+  text-align:center;
 }
 
 .works:hover {

@@ -15,11 +15,20 @@ const Contact =()=>{
     let info=[]
     const handleSubmit =async (e)=>{
         e.preventDefault();
-        
+        if(!name ){
+            setErr('Please enter your name')
+        }
+        if(!email ){
+            setErr('Please enter your email')
+        }
+        if(!msg ){
+            setErr('Please enter a message')
+        }
         info.push({name:name,
             email:email,
             msg:msg})
         try{
+            
         await axios.post('http://localhost:5000/post_question', info)
         console.log(info)
        setForm(false);

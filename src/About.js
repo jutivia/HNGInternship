@@ -25,7 +25,7 @@ const About = () => {
         </p>
         <p>I graduated from the university of Lagos in 2019. In 2021, i decided to change career paths and become a software developer. Since then, I soon became proficient in some programming languages, frameworks and technologies such as <strong>HTML5, CSS, JavaScript, Jquery, React.js, Sass, Typescript, Redux, Express,wordPress, Node.js, MongoDb, NMDB, </strong>etc. Which i make use of in building full-stack apps, mostly using my main/favorite technology stack, MERN.</p>
 
-        <p>I've highlighed my jobs post university below:</p>
+        <p>I've highlighted my jobs, post university below:</p>
               </div> <br/>
               
               <div className="about-works-wrapper" >
