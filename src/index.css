@@ -757,7 +757,7 @@ Stripe Styles
   -webkit-box-shadow: -1px 0px 9px -1px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: -1px 0px 9px -1px rgba(0, 0, 0, 0.75);
   border-radius: 6px;
-  text-align: center;
+  text-align:left;
 }
 
 .works:hover {
@@ -784,9 +784,10 @@ Stripe Styles
   }
 
   .works {
-    min-height: 390px;
+    min-height: 420px;
     width: 85%;
     margin-bottom: 20px;
+    
   }
 }
 
