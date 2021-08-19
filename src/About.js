@@ -32,15 +32,15 @@ const About = () => {
                   <div class="another-works-wrapper">
                   <div className="works" id="mobile">
                      <img src='https://internship.zuri.team/static/media/logo.36d2d48a.svg'  alt=''/>
-                      <h3 style={{padding:'5px 10px', color:'white'}}>Developer Intern</h3>
-                      <p style={{color:'white'}}>August 2021- current date</p><br/><br/>
+                      <h3 style={{padding:'5px 10px', color:'white', fontSize:'14px'}}>Developer Intern</h3>
+                      <p style={{color:'white', fontSize:'12px'}}>August 2021- current date</p><br/><br/>
                       <p>- I build and complete tasks given by the co-ordinators </p>
                       <p>- I get to work in groups/teams of likeminded developers and share knowledge with them </p>
                       </div>
                   <div className="works" id="web"><br/>
-                    <img src='https://flapafrica.net/files/uploads/2020/01/flapper-scaled.png' style={{height:'20%', color:'white'}}/>
-                    <h3 style={{padding:'5px 10px', color:'black', }}>Digital Marketer| CRM</h3>
-                    <p >August 2021- current date</p><br/><br/>
+                    <img src='https://flapafrica.net/files/uploads/2020/01/flapper-scaled.png' style={{height:'15%', color:'white', fontSize:'12px'}}/>
+                    <h3 style={{padding:'5px 10px', color:'grey', fontSize:'14px' }}>Digital Marketer| CRM</h3>
+                    <p >August 2021- current date</p><br/>
                     <p> -I created engaging marketing contents for the social media pages which in turn increased the company's social media followers by a margin of 40%</p>
                     <p>-I maintained the product uploads to the company's website backend using wordpress</p>
                     <p>I ran digital adverts for the company, which covred over 70% of the company's sales for the month via emails and social media platforms</p>
